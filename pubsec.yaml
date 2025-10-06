@@ -1,0 +1,32 @@
+name: eduflex
+description: A modern eLearning and online course platform built with Flutter and Node.js.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  http: ^1.2.1
+  provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  firebase_messaging: ^15.0.4
+  video_player: ^2.8.2
+  chewie: ^1.7.5
+  intl: ^0.19.0
+  fluttertoast: ^8.2.4
+  url_launcher: ^6.2.4
+  flutter_svg: ^2.0.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/videos/
+    - assets/icons/

@@ -1,0 +1,39 @@
+/lib
+  main.dart
+  /screens
+    login_screen.dart
+    home_screen.dart
+    course_screen.dart
+    video_player_screen.dart
+    quiz_screen.dart
+  /widgets
+  /models
+  /providers
+  /services
+    api_service.dart
+    auth_service.dart
+    storage_service.dart
+
+/backend
+  server.js
+  /routes
+    auth.js
+    course.js
+    quiz.js
+    payment.js
+  /controllers
+  /models
+  /middlewares
+  /config
+    db.js
+    aws.js
+
+/assets
+  /images
+  /videos
+  /icons
+
+/docs
+  system_architecture.png
+  api_endpoints.md
+  feature_list.md

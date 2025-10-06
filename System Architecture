@@ -1,0 +1,11 @@
+Students / Instructors → EduFlex Mobile & Web App (Flutter)
+│
+│──> REST API (Node.js + Express)
+│
+│──> MongoDB Database (AWS DocumentDB)
+│
+│──> AWS S3 (File & Video Storage)
+│
+│──> AWS SES (Email Notifications)
+│
+└──> Admin Dashboard (Flutter Web / React)
